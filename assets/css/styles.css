@@ -1,0 +1,148 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color:#000 !important;
+  opacity:0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link .apple-logo {
+  font-size:21px;
+  line-height:0;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color:#fff;
+  font-size:13px;
+}
+
+body {
+  padding-top:50px;
+}
+
+.product {
+  padding-top:100px;
+  text-align:center;
+}
+
+.product h1 {
+  font-size:56px;
+  font-weight:bold;
+}
+
+.product h2 {
+  font-size:27px;
+  font-weight:400;
+}
+
+.product .links {
+  font-size:26px;
+  margin-bottom:80px;
+}
+
+.learn-more {
+  margin-right:20px;
+}
+
+.product.iphone-x {
+  background-color:#f9f9f9;
+  padding-bottom:10px;
+}
+
+.product.ipad {
+  background-color:#f9f9f4;
+  padding-bottom:10px;
+}
+
+.product.macbook-pro {
+  background-color:#131218;
+  padding-bottom:10px;
+}
+
+.product.dark a {
+  color:#fff;
+}
+
+.product.dark {
+  color:#fff !important;
+}
+
+.links.small-link-margin {
+  margin-bottom:0;
+}
+
+.products-small {
+  height:500px;
+  padding-top:40px;
+  margin:0 0px 0 10px;
+  text-align:center;
+  margin-bottom:20px;
+}
+
+.products-small h3 {
+  font-size:32px;
+  font-weight:700;
+}
+
+.products-small h4 {
+  font-size:18px;
+  font-weight:400;
+}
+
+.product-small .links {
+  font-size:17px;
+  margin-bottom:80px;
+}
+
+.product-small {
+  margin-bottom:0;
+}
+
+.links.small-link-margin {
+}
+
+.products-small.behind-the-mac.dark {
+  color:white;
+}
+
+.products-small.behind-the-mac.dark {
+  padding-top:380px;
+}
+
+.row.no-gutters.products-row {
+}
+
+.row.no-gutters.products-row {
+  padding-right:10px;
+}
+
+.product {
+  margin-bottom:10px;
+}
+
+.products-small.behind-the-mac.dark a {
+  color:white;
+}
+
+.learn-more {
+}
+
+.products-small.iphone-eight {
+  background-color:#f9f0eb !important;
+}
+
+.products-small.dark {
+  color:white;
+}
+
+.products-small.air-pods {
+  background-color:#fafafa;
+}
+
+.products-small h5 {
+  color:red;
+  font-size:16px;
+  font-weight:bold;
+}
+
+.products-small.apple-watch {
+  background-color:#eeeeee;
+}
+
